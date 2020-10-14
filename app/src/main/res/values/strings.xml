@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharedPreferencesImageViewDemo</string>
+    <string name="space_circle_image">Space Circle image</string>
+    <string name="test_with_vars">Hej hej, %1$s</string>
+</resources>
